@@ -35,7 +35,7 @@ Durante o desenvolvimento deste projeto, pude praticar diversos conceitos import
 
 1. Clone este repositório:
 
-git clone https://github.com/seu-usuario/bank-system.git
+git clone https://github.com/eduardomarcelo628-beep/mini_bank_system.git
 
 2. Acesse a pasta do projeto:
    
